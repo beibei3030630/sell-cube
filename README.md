@@ -1,4 +1,4 @@
-# sell-cube
+# sell-cube 使用vue-cli 3.0 及cube-ui 重构饿了么
 
 ## Project setup
 ```
